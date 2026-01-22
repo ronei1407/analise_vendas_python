@@ -1,0 +1,10 @@
+data_venda,produto,categoria,quantidade,preco_unitario,regiao,vendedor
+2024-01-05,Notebook,Eletrônicos,2,3500,Sudeste,Ana
+2024-01-10,Mouse,Eletrônicos,5,80,Sudeste,Carlos
+2024-02-02,Teclado,Eletrônicos,3,150,Sul,Marcos
+2024-02-15,Monitor,Eletrônicos,1,1200,Sudeste,Ana
+2024-03-01,Cadeira,Escritório,2,900,Nordeste,Paula
+2024-03-12,Mesa,Escritório,1,1500,Sul,Marcos
+2024-03-20,Notebook,Eletrônicos,1,3500,Norte,Ana
+2024-04-05,Mouse,Eletrônicos,10,80,Sudeste,Carlos
+2024-04-18,Cadeira,Escritório,1,900,Sudeste,Paula
